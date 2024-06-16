@@ -1,0 +1,25 @@
+div{
+    background-color: yellow;  
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    color: blue;
+}
+header{
+    background-color: gray;
+}
+ul{
+    display: flex; 
+    justify-content: space-between; 
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+    background-color: #ADD8E6; 
+    padding: 10px; 
+}
+footer{
+    background-color: gray;
+}
